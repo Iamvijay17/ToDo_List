@@ -22,7 +22,7 @@ function signUp(e) {
 
       alert("Successfully Registered");
 
-    window.location = "https://htmlpreview.github.io/?https://github.com/Iamvijay17/ToDo-List/blob/NewTodo/login.html";
+    window.location = "https://iamvijay17.github.io/ToDo_List/login.html";
   }
 }
 
@@ -140,7 +140,7 @@ function dataCheck() {
   ) {
      
 
-    window.location = "https://htmlpreview.github.io/?https://github.com/Iamvijay17/ToDo-List/blob/NewTodo/main.html";
+    window.location = "https://iamvijay17.github.io/ToDo_List/main.html";
   } else {
     // setErr([username,password], "Enter the correct details")
     alert("Enter the correct details");
